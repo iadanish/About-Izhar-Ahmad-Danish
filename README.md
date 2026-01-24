@@ -5,6 +5,7 @@
 - 📫 DM me at LinkedIn with the same username...
 
 - **Projects:**
+
 **Project:** Automated Publishing Pipeline Built a fully automated media engine capable of running a news site with zero daily human effort.
 Full Automation: Created a "set and forget" system that discovers trending topics from 20+ sources, filters noise, and writes professional-grade articles automatically.
 Scalability: The system processes and publishes 15+ high-quality articles daily, handling everything from image generation to HTML formatting and category management.
